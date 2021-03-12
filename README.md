@@ -1,2 +1,2 @@
 # ATM
- C ile bankamatik uygulaması 
+ bankamatik uygulaması 
